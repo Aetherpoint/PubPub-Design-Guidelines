@@ -8,4 +8,4 @@ Design guidelines for PubPub.
 - Flatdoc: Converts markdown to HTML on the client side.
 
 
-The PubPub DesignGuidelines have no external dependencies. 
+The PubPub Design Guidelines have no external dependencies. 
